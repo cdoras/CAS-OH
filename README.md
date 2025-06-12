@@ -1,6 +1,6 @@
 # CAS-OH
 
-How to use this public glossary?
+How to use this glossary?
 
 - Non-logged-in users with the link:
     - Can read the definition of a term > Click on the term: you can read the definition.
